@@ -1,3 +1,5 @@
-sample-processor/.settings/
-sample-processor/target/
-sample-processor/nifi-sample-processors/target/
+**/.settings/
+**/target/
+**/.classpath
+**/.project
+
